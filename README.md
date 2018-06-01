@@ -1,2 +1,2 @@
 # Net-FreshBooks-JSON-API
-A client for the Freshbooks JSON API 
+A Perl5 client for the Freshbooks JSON API 
